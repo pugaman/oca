@@ -1,0 +1,11 @@
+package com.oca.test.chapter4.pond.bird;
+
+public class Bird {
+
+	protected String text = "floating"; // protected access
+
+	protected void floatInWater() { // protected access
+		System.out.println(text);
+	}
+
+}
