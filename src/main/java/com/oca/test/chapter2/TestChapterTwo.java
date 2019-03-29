@@ -24,6 +24,8 @@ public class TestChapterTwo {
 	* 18. A +
 	* 19. D +
 	* 20. B +
+	*
+	*  = 18/20 = 90%
 	* */
 
 	public static void main(String[] args) {

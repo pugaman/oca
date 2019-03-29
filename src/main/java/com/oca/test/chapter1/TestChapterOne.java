@@ -34,6 +34,8 @@ public class TestChapterOne {
 	* 21. A +
 	* 22. B, C, E, F +-
 	* 23. C, F +-
+	*
+	*  = 19/23 = 83%
 	* */
 	public static void main(String[] args) {
 		printWelcome();
